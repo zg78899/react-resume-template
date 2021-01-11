@@ -1,0 +1,162 @@
+{
+  "main": {
+    "name": "김재헌",
+    "occupation": "새로운 기술에 호기심과, 흥미를 가지고 도전하고 접근하고 있습니다. 꾸준함을 장점으로, 끊임없이 도전하고 ,자신을 발전시키면서, 오늘보다 더 나은 내일을 꿈꾸는 개발자를 목표로 하고있습니다.",
+    "description": "",
+    "image": "jaehun.jpg",
+    "bio": "안녕하십니까,저는 김재헌 입니다. 저는 현재 프로늩엔드 개발자로서.보다 나은 개발을 위해 노력중 입니다.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "zg788990@gmail.com",
+    "phone": "010 - 9680 - 1622",
+    "address": {
+      "street": "서초4동",
+      "city": "서울시",
+      "state": "서초구",
+      "zip": "서운로201"
+    },
+    "website": "https://github.com/zg78899?tab=repositories",
+    "resumedownload": "https://docs.google.com/document/d/1Sw0pEcfKjcM4hj3SJnnaq8PWmKEZDcm_hTtl02W7k2U/edit",
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/zg78899?tab=repositories",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "blogger",
+        "url": "https://zg78899.github.io/",
+        "className": "fa fa-github-alt"
+      },
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCy_da-O2Oumys7WHCMkcHLw",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jaehun-kim-3b33801b5/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/profile.php?id=100005237826255",
+        "className": "fa fa-facebook"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "web-front-end skills",
+    "education": [
+      {
+        "school": "안양대학교",
+        "degree": "정보통계학과",
+        "graduated": "2021년 2월 졸업예정",
+        "description": "2019 09/02 ~2020/2/28  패스트 캠퍼스 웹 취업완성 스쿨"
+      }
+    ],
+    "project": [
+      {
+        "company": "팀 프로젝트",
+        "title": "HTML5,CSS3,/JavaScript/Reactjs",
+        "years": "2019/09 - 2020/3",
+        "description1": "2020 2/02~2/28  SKYPRINTER(스카이 스캐너 클론 팀 프로젝트)",
+        "description2":"2019 11/25~11/28  ONELLO (트렐로 클론 팀 프로젝트)",
+        "description3":"2019 9/23~9/27  카카오뱅크 홈페이지 클론 팀 프로젝트"
+      },
+      {
+        "company": "개인 프로젝트",
+        "title": "React js,redux-thunk,Javascript,Typescript",
+        "years": "- Present",
+        "description1": "2021 1 / 유튜브 클론",
+        "description2":"2020 12 / 코로나 크래커",
+        "description3":"2020 11 / 넷플릭스 클론"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "Javascript",
+        "level": "60%"
+      },
+      {
+        "name": "Git",
+        "level": "55%"
+      },
+      {
+        "name": "HTTML",
+        "level": "70%"
+      },
+      {
+        "name": "CSS3",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "GITHUB CLONE",
+        "category": "HTML,CSS",
+        "image": "github.png",
+        "url": "https://github.com/zg78899/gtihub-responsive--clone"
+      },
+      {
+        "title": "KAKAO-BANK CLONE",
+        "category": "HTML,CSS,JAVASCRIPT",
+        "image": "kakaobank.png",
+        "url": "https://m.youtube.com/watch?v=oX4jT6lWiLo"
+      },
+      {
+        "title": "TRELLO CLONE",
+        "category": "HTML,CSS,JAVASCRIPT,EXPRESS",
+        "image": "onello.png",
+        "url": "https://www.youtube.com/watch?v=vLNumImwUkE"
+      },
+      {
+        "title": "SKYSCANNER CLONE",
+        "category": "HTML,CSS,REACT-REDUX,REACT js",
+        "image": "skyprinter.png",
+        "url": "https://youtu.be/lXoj-P9begE"
+      },
+      {
+        "title": "NETFLIX CLONE",
+        "category": "REACT js,SCSS,STYLED-COMPONENT",
+        "image": "netflix.png",
+        "url": "https://www.youtube.com/watch?v=026xjwJszBo&t=3s"
+      },
+      {
+        "title": "AMAZON CLONE",
+        "category": "REACT JS,HTML,SCSS",
+        "image": "amazon.png",
+        "url": "https://github.com/zg78899/amazon-clone"
+      },
+      {
+        "title": "COVID TRACKER",
+        "category": "REACT JS,API",
+        "image": "covid19.png",
+        "url": "https://github.com/zg78899/COVID-19-TRACKER"
+      },
+      {
+        "title": "YOUTUBE CLONE",
+        "category": "ReactJS,SCSS,HTML,YOUTUBE API",
+        "image": "youtube.png",
+        "url": "https://github.com/zg78899/YOUTUBE-CLONE"
+      }
+    ] 
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "[뜻(목표)이 있다면 반드시 길은 있다]",
+        "user": ""
+      },
+      {
+        "text": "개발을 하다 보면 수 많은 오류와 문제들에 맞닥들이게 됩니다.무엇인가를 도전할때 흔히 내가 잘할 수 있을까? 의문과 두려움을 느낍니다. 하지만 자신의 의지를 갖고, 목표를 위해 꾸준히 노력한다면 해결하지 못할 일은 없을 것 입니다. 자신의 의지(뜻) 가장 중요하다고 생각합니다. 뜻이 있다면 길은 언제라도 열려 있기 때문입니다.항상 목표를 세우고 이루어 나갈수 있는 개발자가 되고 싶습니다. 저의 목표를 향한 도전과 혁신이 함께 성장할수 있길 바랍니다.",
+        "user": ""
+      }
+    ]
+  }
+}
