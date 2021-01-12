@@ -20,6 +20,7 @@ class Header extends Component {
 
     return (
       <header id="home">
+        <video src="/videos/background.mp4" autoPlay loop muted />
         <nav id="nav-wrap">
           <a className="mobile-btn" href="#nav-wrap" title="Show navigation">
             Show navigation
@@ -40,13 +41,13 @@ class Header extends Component {
               </a>
             </li>
             <li>
-              <a className="smoothscroll" href="#resume">
-                Resume
+              <a className="smoothscroll" href="#portfolio">
+                Projects
               </a>
             </li>
             <li>
-              <a className="smoothscroll" href="#portfolio">
-                Projects
+              <a className="smoothscroll" href="#resume">
+                Resume
               </a>
             </li>
             <li>
