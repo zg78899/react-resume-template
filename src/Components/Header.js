@@ -66,12 +66,12 @@ class Header extends Component {
         <div className="row banner">
           <div className="banner-text">
             <h1 className="responsive-headline">
-              발전하는 개발자를 꿈꾸는
+              도전 성장 혁신을 이루는
               <br />
               {name}입니다.
             </h1>
             <h3>
-              <span>{occupation}</span>. {description}.
+              <span>{occupation}</span>
             </h3>
             <hr />
             <ul className="social">{networks}</ul>
