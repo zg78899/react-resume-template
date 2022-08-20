@@ -1,13 +1,13 @@
 {
   "main": {
     "name": "김재헌",
-    "occupation": "새로운 기술에 호기심과,흥미를 가지고 도전하고 접근하고 있습니다. 꾸준함을 장점으로,끊임없이 도전하고,자신을 발전시키며,오늘보다 더 나은 내일을 꿈꾸는 개발자를 목표로 하고있습니다.",
-    "description": "",
+    "occupation": "사용자 이해를 바탕으로 사용자에게 필요한 서비스를 구상하고 구체화하는 서비스기획자 김재헌입니다.",
+    "description": "사용자의 니즈를 가장 우선으로 가치를 창출하고, 데이터와 분석을 통해 인사이트를 창출을 토대로 성과를 높일 수 있는 방법들을 목표로 하고 있습니다.",
     "image": "jaehun.jpg",
-    "bio": "만나뵙게 되어 반갑습니다.김재헌 입니다. 저는 현재 프론트엔드 개발자로서,보다 나은 개발과 성장을 위해 노력중 입니다.",
+    "bio": "저는 현재 웰컴그융그룹 웰컴에프앤디(주) 디지털금융기획팀에서 심사 전산 시스템,웹,모바일 앱 서비스 기획을 담당하고 있습니다.\n웰컴에프앤디(주)2022.01~ 현재 /디지털금융기획팀/주임\n웰컴크레디라인(주) 2021.02~2022.01 영업기획팀/주임 ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "zg788990@gmail.com",
-    "phone": "010 - 9680 - 1622",
+    "email": "email : zg788990@gmail.com",
+    "phone": "tel) 010 - 9680 - 1622",
     "address": {
       "street": "서초4동",
       "city": "서울시",
@@ -15,7 +15,7 @@
       "zip": "서운로201"
     },
     "website": "https://github.com/zg78899?tab=repositories",
-    "resumedownload": "https://drive.google.com/file/d/1astZXELjGPA0UWqYhGnruDPKXL-L_pcx/view?usp=sharing",
+    "resumedownload": "file:///Users/pokeoseu/Downloads/%E1%84%92%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%20%E1%84%83%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%92%E1%85%A1%E1%84%80%E1%85%A9%20%E1%84%92%E1%85%A1%E1%86%B7%E1%84%81%E1%85%A6%20%E1%84%89%E1%85%A5%E1%86%BC%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%92%E1%85%A1%E1%84%83%E1%85%A9%E1%84%85%E1%85%A9%E1%86%A8%20%E1%84%82%E1%85%A9%E1%84%85%E1%85%A7%E1%86%A8%E1%84%92%E1%85%A1%E1%84%80%E1%85%A6%E1%86%BB%E1%84%89%E1%85%B3%E1%86%B8%E1%84%82%E1%85%B5%E1%84%83%E1%85%A1._zg788990%20(1).pdf",
     "social": [
       {
         "name": "github",
@@ -45,53 +45,58 @@
     ]
   },
   "resume": {
-    "skillmessage": "web-front-end skills",
+    "skillmessage": "보유하고 있는 기술의 스킬set은 다음과 같습니다.",
     "education": [
       {
         "school": "안양대학교",
         "degree": "정보통계학과",
-        "graduated": "2021년 2월 졸업예정",
-        "description": "2019 09/02 ~2020/2/28  패스트 캠퍼스 웹 취업완성 스쿨"
+        "graduated": "2021년 2월 졸업 학점: 3.55/4.5",
+        "description": "2021/06~2021/07 KCB머신러닝교육 \n 2019/09 ~2020/02 패스트캠퍼스 웹 취업완성 스쿨"
       }
     ],
     "project": [
       {
-        "company": "팀 프로젝트",
-        "title": "HTML5,CSS3,/JavaScript/Reactjs",
-        "years": "2019/09 - 2020/3",
-        "description1": "2020 2/02~2/28  SKYPRINTER(스카이 스캐너 클론 팀 프로젝트)",
-        "description2":"2019 11/25~11/28  ONELLO (트렐로 클론 팀 프로젝트)",
-        "description3":"2019 9/23~9/27  카카오뱅크 홈페이지 클론 팀 프로젝트"
+        "company": "웰컴캐피탈 프로젝트",
+        "title": "웰컴캐피탈 심사전산 및 심사 시스템 구축",
+        "years": "2021/12 - 2022/06",
+        "description1": "웰컴캐피탈 Product Manager/ 기획서 작성, 내부 법률 검토 요청, 일정 관리(개발팀,디자인팀, CRM팀 협업 및 일정관리)",
+        "description2":"전산 내 심사에 필요한 여러 기능 기획 및 추가(API, 전문연결, 스크래핑)",
+        "description3":"부동산담보상품(개인사업자,사업자부동산담보(단독다가구)) 시세조회 기능 추가(공감랩,벨류쇼핑)"
       },
       {
         "company": "개인 프로젝트",
-        "title": "React js,redux-thunk,Javascript,Typescript",
-        "years": "- Present",
-        "description1": "2021 1 / 유튜브 클론",
-        "description2":"2020 12 / 코로나 크래커",
-        "description3":"2020 11 / 넷플릭스 클론"
+        "title": "정부지원금을 주제로한 근로장려금/긴급재난지원금 신처아 기이드 앱",
+        "years": "2022.01~2022.06",
+        "description1": "긴급재난지원금 신청가이드앱 : https://play.google.com/store/apps/details?id=com.govsupport.guide",
+        "description2":"근로장려금 신청가이드앱 :https://play.google.com/store/apps/details?id=com.workson.guide",
+        "description3":"누적 다운로드 10만 다운로드를 기록"
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "EXCEL",
         "level": "70%"
       },
       {
-        "name": "Javascript",
+        "name": "WORD",
         "level": "60%"
       },
       {
-        "name": "Git",
+        "name": "POWER POINT",
         "level": "55%"
       },
       {
-        "name": "HTTML",
-        "level": "70%"
+        "name": "JAVASCIRPT",
+        "level": "50%"
       },
       {
-        "name": "CSS3",
-        "level": "60%"
+        "name": "SQL",
+        "level": "40%"
+      }
+      ,
+      {
+        "name": "PYTHON",
+        "level": "30%"
       }
     ]
   },
@@ -154,7 +159,7 @@
         "user": ""
       },
       {
-        "text": "개발을 하다 보면 수 많은 오류와 문제들에 맞닥들이게 됩니다.무엇인가를 도전할때 흔히 내가 잘할 수 있을까? 의문과 두려움을 느낍니다. 하지만 자신의 의지를 갖고, 목표를 위해 꾸준히 노력한다면 해결하지 못할 일은 없을 것 입니다. 자신의 의지(뜻) 가장 중요하다고 생각합니다. 뜻이 있다면 길은 언제라도 열려 있기 때문입니다.항상 목표를 세우고 이루어 나갈수 있는 개발자가 되고 싶습니다. 저의 목표를 향한 도전과 혁신이 함께 성장할수 있길 바랍니다.",
+        "text": "무엇인가를 도전할때 흔히 내가 잘할 수 있을까? 의문과 두려움을 느낍니다. 하지만 자신의 의지를 갖고, 목표를 위해 꾸준히 노력한다면 해결하지 못할 일은 없을 것 입니다. 자신의 의지(뜻) 가장 중요하다고 생각합니다. 뜻이 있다면 길은 언제라도 열려 있기 때문입니다.항상 목표를 세우고 이루어 나갈수 있는 기획자가 되고 싶습니다. 저의 목표를 향한 도전과 혁신이 함께 성장할수 있길 바랍니다.",
         "user": ""
       }
     ]
